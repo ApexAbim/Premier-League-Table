@@ -13,6 +13,9 @@ https://www.football-data.org/. Go through their documentation for further detai
 ## Format for config file
 
 let config = {
-    API_KEY : YOUR_API_KEY,
+    API_KEY : YOUR_API_KEY
 }
   
+# Screeshot
+
+![](ss1.png)
